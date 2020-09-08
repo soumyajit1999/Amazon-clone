@@ -1,3 +1,11 @@
+## Deployed with firebase
+Link: 
+
+## Used:
+1)React Context API
+2)React Router
+3)React Hook - useEffect
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
